@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: >
+    CPSC513: Secure Computer Systems
+description: >
+    Graduate Teaching Fellow for CPSC567: Secure Computer Systems
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Yale
 ---
 
 Every project has a beautiful feature showcase page.

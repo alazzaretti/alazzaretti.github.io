@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2021-05-02 16:11:00-0400
+date: 2023-01-02 16:11:00-0400
 inline: true
 ---
 
-Graduate from my M.Sc. in Computer Science at Georgia Tech!
+Graduate Teaching Fellow for CPSC567: Cryptography.
 
 
 

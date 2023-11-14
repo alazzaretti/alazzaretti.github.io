@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: >
+    CPSC567: Cryptography
+description: >
+    Graduate Teaching Fellow for CPSC567: Cryptography
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Yale
 ---
 
 Every project has a beautiful feature showcase page.
