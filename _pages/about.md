@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>reach me at:</p>
-    <p>name(dot)lastname(at)yale(dot)edu</p>
+    <p>arthur(dot)lazzaretti(at)yale(dot)edu</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
