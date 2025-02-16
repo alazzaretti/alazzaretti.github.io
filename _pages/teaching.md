@@ -4,9 +4,11 @@ permalink: /teaching/
 title: teaching
 description: Courses I have helped teach over the years.
 nav: true
+
 nav_order: 2
 display_categories: [Yale, Georgia Tech]
 horizontal: false
+
 ---
 {% comment %}
 At Yale, I have worked as a Graduate Teaching Fellow for both CPSC547: Cryptography and CPSC513: Computer System Security at Yale. I previously also worked at the Office of Career Strategies at Yale mentoring students.
