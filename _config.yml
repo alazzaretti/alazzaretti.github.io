@@ -172,10 +172,10 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
-    output: true
-# <<<<<<< HEAD
-    permalink: /projects/:path/
+#   projects:
+#     output: false
+# # <<<<<<< HEAD
+#     permalink: /projects/:path/
   teaching:
     defaults:
       layout: post

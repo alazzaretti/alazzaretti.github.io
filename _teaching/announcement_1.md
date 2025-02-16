@@ -1,6 +1,5 @@
 ---
 layout: post
-<<<<<<< HEAD:_teaching/announcement_1.md
 title: A long announcement with details
 date: 2023-01-02 16:11:00-0400
 inline: true

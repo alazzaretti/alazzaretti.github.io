@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-
 subtitle: Yale University, previously at Georgia Tech #<a href='#'>Yale University</a>, previously <a href='#'>Georgia Tech</a>
-=======
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 
-<<<<<<< HEAD
+profile:
+  align: left
+  image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>reach me at:</p>
     <p>arthur(dot)lazzaretti(at)yale(dot)edu</p>
+
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
 ---
