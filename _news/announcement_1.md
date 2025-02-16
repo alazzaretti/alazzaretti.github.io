@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Graduate from my M.Sc. in Computer Science at Georgia Tech!
+Graduated from my M.Sc. in Computer Science at Georgia Tech!
 
 
 
