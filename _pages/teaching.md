@@ -19,7 +19,7 @@ horizontal: false
       {% for item in teaching limit: teaching_size %} 
       <span style="color:black">
         <tr>
-          <th scope="row">{{ item.date | date: "%b %Y" }}</th>
+          <th scope="row">{{ item.date | date: "%b %Y" }}</th> {% comment %}<th scope="row">{{ item.date | date: "%b %Y" }}</th>{% endcomment %}
           <td>
             {% if item.inline -%} 
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
