@@ -30,14 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "news-graduated-from-my-m-sc-in-computer-science-at-georgia-tech",
+        },{id: "news-graduated-from-my-m-sc-in-computer-science-at-georgia-tech",
           title: 'Graduated from my M.Sc. in Computer Science at Georgia Tech!',
           description: "",
           section: "News",},{id: "news-started-my-phd-at-yale-fireworks",
