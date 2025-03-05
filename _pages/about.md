@@ -21,7 +21,9 @@ announcements:
   limit: 5
 ---
 
-I'm a PhD student working in cryptography at the Yale Applied Cryptography Lab (YACL), advised by Dr. Charalampos Papamanthou. My research efforts are mainly focused in improving Private Information Retrieval (PIR) algorithms. The end goals would be an affordable private search over large databases. This would be extremely useful both to perform lightweight private operations in a decentralized setting, would allow for affordable privacy guarantees in the internet, and would improve many other Privacy Enhancing Technologies which PIR is used as a blackbox for.
+I'm a PhD student working in cryptography at the Yale Applied Cryptography Lab (YACL), advised by Dr. Charalampos Papamanthou. My research efforts are mainly focused in improving Private Information Retrieval (PIR) algorithms. 
+
+The end goal is to have an affordable private search over large databases. This would be extremely useful both to perform lightweight private operations in a decentralized setting, would allow for affordable privacy guarantees in the internet, and would improve many other Privacy Enhancing Technologies which PIR is used as a blackbox for.
 
 Other topics in cryptography that interest me include secure aggregation, differential privacy, secure multiparty computation and homomorphic encryption.
 
