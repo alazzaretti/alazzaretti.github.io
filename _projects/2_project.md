@@ -2,13 +2,12 @@
 layout: page
 
 title: >
-    CPSC513: Secure Computer Systems
+  CPSC513: Secure Computer Systems
 description: >
-    Graduate Teaching Fellow for CPSC567: Secure Computer Systems
+  Graduate Teaching Fellow for CPSC567: Secure Computer Systems
 img: assets/img/3.jpg
 importance: 2
 category: Yale
-
 ---
 
 Every project has a beautiful feature showcase page.

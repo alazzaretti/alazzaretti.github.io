@@ -5,4 +5,3 @@ inline: true
 ---
 
 Graduate Teching Fellow for CS3251: Newtorking I
-

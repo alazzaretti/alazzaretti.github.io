@@ -10,7 +10,6 @@ display_categories: [Yale, Georgia Tech]
 horizontal: false
 ---
 
-
   <div class="teaching">
     {% if site.teaching != blank -%} 
     <div class="table-responsive">

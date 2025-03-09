@@ -5,4 +5,3 @@ inline: true
 ---
 
 Graduate Teching Fellow for CS6260: Applied Cryptography
-

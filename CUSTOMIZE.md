@@ -234,7 +234,9 @@ You can also:
 - remove the `jekyll-scholar` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
 
 ### Removing the repositories page
+
 Commnted out
+
 <!-- To remove the repositories, you can: -->
 
 <!-- - delete the repositories page [\_pages/repositories.md](_pages/repositories.md) -->

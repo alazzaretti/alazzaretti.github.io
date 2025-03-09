@@ -5,4 +5,3 @@ inline: true
 ---
 
 Graduate Teching Fellow for CPSC513: Computer System Security
-
