@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Courses I have helped teach over the years.",
+        },{id: "nav-teaching-service",
+          title: "teaching+service",
+          description: "Courses I have helped teach and conferences I have reviewed for over the years.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/teaching+service/";
           },
         },{id: "news-graduated-from-my-m-sc-in-computer-science-at-georgia-tech",
           title: 'Graduated from my M.Sc. in Computer Science at Georgia Tech!',
