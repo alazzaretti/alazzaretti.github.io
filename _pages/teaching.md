@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Courses I have helped teach over the years.
+permalink: /teaching+service/
+title: teaching+service
+description: Courses I have helped teach and conferences I have reviewed for over the years.
 nav: true
 
 nav_order: 2
@@ -10,7 +10,7 @@ display_categories: [Yale, Georgia Tech]
 horizontal: false
 ---
 
-  <div class="teaching">
+  <div class="teaching+service">
     {% if site.teaching != blank -%} 
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
